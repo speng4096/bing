@@ -1,0 +1,17 @@
+# Goland
+.idea/
+*.iws
+out/
+.idea_modules/
+
+# Golang
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Mac
+.DS_Store
